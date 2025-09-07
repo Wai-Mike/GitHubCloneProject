@@ -1,2 +1,1 @@
-This is the objective of the branch and merge task.
-Modification in main branch.
+This is the main objective of this task
